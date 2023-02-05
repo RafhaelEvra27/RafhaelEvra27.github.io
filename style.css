@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(240, 238, 238);
+}
+.jumbotron {
+  background-color: rgb(189, 253, 232);
+  padding-top: 7rem;
+}
+.jumbotron h1 {
+  font-weight: 400;
+  font-size: 40p;
+  text-transform: capitalize;
+}
+.projects .card {
+  border-radius: 20px;
+}
+.projects img {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+footer a {
+  text-decoration: none;
+}
+section {
+  padding-top: 4rem;
+}
+footer p {
+  font-size: 0.7rem;
+}
